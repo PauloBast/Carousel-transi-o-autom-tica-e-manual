@@ -76,7 +76,7 @@ header nav a:hover{
    background:url('../img/fundo2.jpg') no-repeat center top/cover;
 }
 .slide:first-child{
-   background:url('../img/banner-familia-home-invertida.jpg') no-repeat center top/cover;
+   background:url('../img/fundo3.jpg') no-repeat center top/cover;
 }
 .buttons button#next{
    position:absolute;
