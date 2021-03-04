@@ -80,12 +80,12 @@ header nav a:hover{
 }
 .buttons button#next{
    position:absolute;
-   top:235px;
+   top:245px;
    right:15px;
 }
 .buttons button#prev{
    position:absolute;
-   top:235px;
+   top:245px;
    left:15px;
 }
   .buttons button{
