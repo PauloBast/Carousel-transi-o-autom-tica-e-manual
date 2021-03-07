@@ -105,6 +105,7 @@ header nav a:hover{
    color:#fff;
    cursor:pointer;
    padding:20px 25px;
+   font-size:78px;
    /*border-radius:50%;*/
    outline:none;
    z-index:15;
