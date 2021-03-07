@@ -100,12 +100,12 @@ header nav a:hover{
    transform: rotate(45deg);
 }
   .buttons button{
-   border:2px solid #fff;
+   /*border:2px solid #fff;*/
    background-color:transparent;
    color:#fff;
    cursor:pointer;
-   padding:13px 15px;
-   border-radius:50%;
+   padding:20px 25px;
+   /*border-radius:50%;*/
    outline:none;
    z-index:15;
 }
