@@ -40,7 +40,7 @@ prev.addEventListener('click', e => {
   prevSlide();
   if(auto){
     clearInterval(slideInterval);
-    slideInterval = setInterval(nextSlide, intervalTime);
+    slideInterval = setInterval(prevSlide, intervalTime);
   }
 });
 
