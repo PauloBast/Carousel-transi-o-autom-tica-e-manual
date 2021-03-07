@@ -83,11 +83,21 @@ header nav a:hover{
    position:absolute;
    top:350px;
    right:15px;
+   padding: 20px;
+   box-shadow: 2px -2px 0 1px #fff inset;
+   border: solid transparent;
+   border-width: 0 0 2px 2px;
+   transform: rotate(220deg);
 }
 .buttons button#prev{
    position:absolute;
    top:350px;
    left:15px;
+   padding: 20px;
+   box-shadow: 2px -2px 0 1px #fff inset;
+   border: solid transparent;
+   border-width: 0 0 2px 2px;
+   transform: rotate(45deg);
 }
   .buttons button{
    border:2px solid #fff;
